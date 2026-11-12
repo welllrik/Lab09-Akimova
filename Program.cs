@@ -105,7 +105,7 @@ for (w = 1; w <= nb && !stop; w++)
     {
         if (d == 7)
         {
-            continue; // воскресенье — отдых
+            continue; 
         }
         cnt++;
         if (cnt == 20)
